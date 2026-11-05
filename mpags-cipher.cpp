@@ -39,9 +39,15 @@ int main()
     std::cout << ex4_char << std::endl;
     
     /* code outputs:
+    Hello World!
     77
     3.14
     3
-    Hello World! 
+    2.9
+    Hello Again World!
+    47.92
+    0.74875
+    2
+    !
     */
 }   
